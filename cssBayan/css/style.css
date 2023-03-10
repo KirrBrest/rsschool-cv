@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    font-family: "Rubik Wet Paint", sans-serif;
+    font-size: 18px;
+    line-height: 26px;
+    color: #211F20;
+    background-color: #fdfdff;
+    width: 1280px;
+    margin: 0 auto;
+}
+
+.logo {
+    font-size: 36px;
+    line-height: 44px;
+}
+
+.main-header {
+    width: 1280px;
+    margin: 0 auto;
+
+}
+
