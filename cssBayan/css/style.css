@@ -22,9 +22,11 @@ a {
     line-height: 44px;
 }
 
+.item {
+    list-style: none;
+}
 
 .item-img {
-    list-style: none;
     display: none;
 }
 
@@ -35,6 +37,7 @@ a {
 .item:first-child>.item-img {
     display: block;
 }
+
 
  .item:hover .item-img {   
   display: block;
