@@ -6,6 +6,10 @@ body {
     color: #211F20;
     background-color: #fdfdff;
 }
+a {
+    text-decoration: none;
+    color: #211F20;
+}
 
 .main-main {
     width: 500px;
@@ -24,8 +28,12 @@ body {
     display: none;
 }
 
-.item:hover .caption {
+.item:hover .caption>a {
     color: #4340e0;
+}
+
+.item:first-child>.item-img {
+    display: block;
 }
 
  .item:hover .item-img {   
