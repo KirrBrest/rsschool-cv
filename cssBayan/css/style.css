@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    font-family: "Rubik Wet Paint", sans-serif;
+    font-size: 18px;
+    line-height: 26px;
+    color: #211F20;
+    background-color: #fdfdff;
+}
+a {
+    text-decoration: none;
+    color: #211F20;
+}
+
+.main-main {
+    width: 500px;
+    margin: 0 auto;
+
+}
+
+.logo {
+    font-size: 36px;
+    line-height: 44px;
+}
+
+.item {
+    list-style: none;
+}
+
+.item-img {
+    display: none;
+}
+
+.item:hover .caption>a {
+    color: #4340e0;
+}
+
+.item:first-child>.item-img {
+    display: block;
+}
+
+
+ .item:hover .item-img {   
+  display: block;
+  width: 300px;
+  height: 300px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.8); 
+}
