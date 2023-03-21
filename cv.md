@@ -25,13 +25,13 @@ Young purposeful man (05.10.1984). I have been working in the field of economics
 * CorelDRAW
 * Git, GitHub
 * VS Code
+* 1С v7.7
 
 ----
 
 ## Code Example: ##
 
 ``` javascript
-Integrated language 1С v7.7
 const sayHi = (name = 'Kiryl') => "Hi" + name;
 sayHi();
 ```
