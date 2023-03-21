@@ -4,9 +4,9 @@
 
 ## Contacts ## 
 
-_Location:_ Brest, Belarus
-_Phone:_ +375 29 726-80-50
-_email:_ lukashchuk.kiryl@yandex.by
+* _Location:_ Brest, Belarus
+* _Phone:_ +375 29 726-80-50
+* _email:_ lukashchuk.kiryl@yandex.by
 
 ----
 
@@ -17,7 +17,14 @@ Young purposeful man (05.10.1984). I have been working in the field of economics
 ----
 
 ## Skills: ##
-
+* HTML
+* CSS
+* JavaScript (basic)
+* Figma
+* Adobe Photoshop
+* CorelDRAW
+* Git, GitHub
+* VS Code
 
 ----
 
@@ -48,4 +55,4 @@ sayHi();
 
 ## English: ##
 
-A1 which is approaching to A2 (_studying by Duolingo every day_).
+A1 which is approaching to A2 (_studying by Duolingo every day_). 
