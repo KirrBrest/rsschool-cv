@@ -52,7 +52,7 @@ sayHi();
 
 + Brest Technical University: commercial activity of construction companies; 
 + Business school IPM: active sales strategy in a highly competitive environment; 
-+ www.htmlacademy.ru: courses for beginner.
++ www.htmlacademy.ru: courses for beginner;
 + RS-School JavaScript/FrontEnd Stage1 - full, Stage2 - begin. 
 
 ----
