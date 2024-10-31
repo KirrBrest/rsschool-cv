@@ -12,22 +12,24 @@
 
 ## About me: ##
 
-I'm 38 years old. I have been working in the field of economics and business management since the age of 19. At the beginning of 2023, I decided to change my profession. I have been involved in IT technologies almost for 30 years as a hobby (from 9 years old). The ability to quickly assimilate technical information and work very hard gives me the opportunity to quickly acquire the skills necessary for work. The desire to learn something new and develop will allow me to become a good IT specialist.
+I'm 40 years old. I have been working in the field of economics and business management since the age of 19. At the beginning of 2023, I decided to change my profession. I have been involved in IT technologies almost for 30 years as a hobby (from 9 years old). The ability to quickly assimilate technical information and work very hard gives me the opportunity to quickly acquire the skills necessary for work. The desire to learn something new and develop will allow me to become a good IT specialist.
 
 ----
 
 ## Skills: ##
-* HTML (semantic, adaptive, perfectpixel)
-* CSS
-* JavaScript
 * Figma
 * Adobe Photoshop
 * CorelDRAW
+* HTML (semantic, adaptive, perfectpixel)
+* CSS
+* JavaScript
 * Git, GitHub
 * SASS
-* WebPack basic
+* WebPack
+* OOP
 * TypeScript basic
-* 1С v7.7
+* React basic
+* 1С v7.7 (coding)
 
 ----
 
@@ -44,7 +46,7 @@ sayHi();
 
 + 6 month work with 1С v7.7 (2008)
 + 3 years (2005-2008) - network administrator and administration 1С v7.7
-+ 5 month of learning JS (70-90 hours per week)
++ 2 years of learning FrontEnd
 
 ----
 
@@ -53,10 +55,10 @@ sayHi();
 + Brest Technical University: commercial activity of construction companies; 
 + Business school IPM: active sales strategy in a highly competitive environment; 
 + www.htmlacademy.ru: courses for beginner;
-+ RS-School JavaScript/FrontEnd Stage1 - full, Stage2 - begin. 
++ RS-School JavaScript/FrontEnd Stage1 - full, Stage2 (90%). 
 
 ----
 
 ## English: ##
 
-A1 which is approaching to A2 (_studying by Duolingo every day_). 
+B1 which is approaching to B2 (_studying by Duolingo every day_). 
