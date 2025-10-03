@@ -12,7 +12,7 @@
 
 ## About me: ##
 
-I'm 40 years old. I have been working in the field of economics and business management since the age of 19. At the beginning of 2023, I decided to change my profession. I have been involved in IT technologies almost for 30 years as a hobby (from 9 years old). The ability to quickly assimilate technical information and work very hard gives me the opportunity to quickly acquire the skills necessary for work. The desire to learn something new and develop will allow me to become a good IT specialist.
+I'm 41 years old. I have been working in the field of economics and business management since the age of 19. At the beginning of 2023, I decided to change my profession. I have been involved in IT technologies almost for 30 years as a hobby (from 9 years old). The ability to quickly assimilate technical information and work very hard gives me the opportunity to quickly acquire the skills necessary for work. The desire to learn something new and develop will allow me to become a good IT specialist.
 
 ----
 
@@ -20,6 +20,7 @@ I'm 40 years old. I have been working in the field of economics and business man
 * Figma
 * Adobe Photoshop
 * CorelDRAW
+* 1С v7.7 developer
 * HTML (semantic, adaptive, perfectpixel)
 * CSS
 * JavaScript
@@ -27,9 +28,11 @@ I'm 40 years old. I have been working in the field of economics and business man
 * SASS
 * WebPack
 * Node js
-* TypeScript basic
-* React basic
-* 1С v7.7
+* TypeScript
+* Vite
+* Vitest
+* React
+* NextJS
 
 ----
 
@@ -44,9 +47,9 @@ sayHi();
 
 ## Experience in IT: ##
 
-+ 6 month work with 1С v7.7 (2008)
++ 6 month work with 1С v7.7 developing (2008)
 + 3 years (2005-2008) - network administrator and administration 1С v7.7
-+ 2 years of learning FrontEnd
++ 3 years of learning FrontEnd (JS, TS, React) and coding projects
 
 ----
 
@@ -55,10 +58,13 @@ sayHi();
 + Brest Technical University: commercial activity of construction companies; 
 + Business school IPM: active sales strategy in a highly competitive environment; 
 + www.htmlacademy.ru: courses for beginner;
-+ RS-School JavaScript/FrontEnd Stage1 - full, Stage2 (90%). 
++ RS-School JavaScript/FrontEnd and React. 
 
 ----
 
-## English: ##
+## Languages ##
 
-B1 which is approaching to B2 (_studying by Duolingo every day_). 
+
+* Russian: native
+* English: B1 which is approaching to B2 (_studying by Duolingo every day_)
+* Spanish: A2 which is approaching to B1
